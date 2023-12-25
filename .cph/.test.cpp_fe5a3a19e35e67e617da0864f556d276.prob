@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"e:\\Documents\\Python\\test.cpp","tests":[{"id":1692381976804,"input":"push 3\n\npush 5\n\nshow\n\npush 7\n\nshow\n\npop\n\npop\n\nshow","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Documents\\Python\\test.cpp","group":"local","local":true}

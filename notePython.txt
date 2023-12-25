@@ -1,0 +1,17 @@
+PY01039: Chỉ có 2 chữ số nhưng nếu 111 vẫn Yes
+PY01071 : Chuyển đuôi = lowercase()
+PY01050 : *
+PY01063 : *
+PY02016 : a = list(map(int, input().split())) bị IR -> a = [int(x) for x in input().split()]
+PY04002 : Không cần hàm main như bài cũng được
+PY04005 : Không biết sao bị WA
+PYKT089 : Nhập n số không phải trên 1 dòng
+PY02056 : Chú ý số có 2 chữ số trở lên
+PYKT081 : Chú ý là phần tử có thể ko phải số
+PYKT082 : Lưu ý >= 0.75 thì + 1, >= 0.25 thì + 0.5
+PY01022 : Dùng int() sẽ bị IR, phải dùng ord(s[i]) - ord('0')
+PY01027 : Cách làm thông minh
+PY04014 : Làm tròn bằng Decimal
+PY03005 : Kiểm tra xem khác "", b = re.split("[^a-z0-9]", input().lower())
+PY03006 : Kiểm tra xem khác ""
+
